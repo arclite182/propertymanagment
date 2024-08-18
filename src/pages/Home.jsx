@@ -6,6 +6,7 @@ const Home = () => {
         <Layout>
             <div style={homeContainerStyle}>
                 <section style={topSectionStyle}>
+                    <img src="/public/logobayside.png" alt="Real Estate Logo" style={logoStyle} />
                     <img src="/logobayside.png" alt="Real Estate Logo" style={logoStyle} />
                 </section>
                 <section style={bottomSectionStyle}>
